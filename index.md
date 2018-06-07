@@ -63,6 +63,7 @@
 ##### 语言水平
 
 **英语 CET-6 425|TOELF 92|留学经历**
+
 日常英语交流，擅长英语阅读和写作。《Adventures in Minecraft》中文译者之一，《Minecraft Modding For Kids For Dummies》和《Ruby for Kids For Dummies》独立中文译者，三本书均已由中国邮电出版社出版。
 
 ##### 自我描述
