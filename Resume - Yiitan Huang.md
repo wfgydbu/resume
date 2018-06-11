@@ -1,18 +1,18 @@
-#### 黄一天
- - **概况**： 2-3年工作经验 | 男 | 1990年11月 | 硕士 | 计算机科学
- - **电话**：`+1-(703)-395-3877` | _目前人在北美，可视频或电话面试，六月底回国_
- - **邮箱**：`wfgydbu@163.com` | **微信**：`wfgydbu`(2020)
- - **技术博客**：[Ethan's Journal](https://journal.ethanshub.com/) | **Github**：[https://github.com/wfgydbu](https://github.com/wfgydbu)
- - **期望岗位**：Python爬虫工程师 / Python开发工程师 | **期望城市**：上海市
+#### Yitian Huang
+ - **Candidate Info**： 2-3 yeas in workforce | half year at this job | Male | 1990.11 |M.S| Computer Science
+ - **Cell**：`+1-(703)-395-3877` | _Currently in North America, online or phone interview preferred._
+ - **Email**：`wfgydbu@163.com` | **Wechat**：`wfgydbu`(2020)
+ - **Blog**：[Ethan's Journal](https://journal.ethanshub.com/) | **Github**：[https://github.com/wfgydbu](https://github.com/wfgydbu)
+ - **Position Expected**：Junior/Senior Python SE (Web Crawl/Backend) | **Location Expected**：Shanghai City
 
-##### 教育经历
-- **乔治华盛顿大学** | 2015年9月 - 2017年5月 | 计算机科学 | 硕士 | GPA：3.97/4.0 | 专业方向：操作系统、网络安全和数据库
-- **南京工业大学** | 2008年9月 - 2012年6月 | 计算机科学与技术 | 学士
+##### Education
+- **The George Washington University** | 2015/09 - 2017/05 | Computer Science | M.S. | GPA：3.97/4.0 | Focus：OS, Network, Security, Database
+- **Nanjing Tech University** | 2008/09 - 2012/06 | Computer Science and Technology | B.S.
 
-##### 工作经历
-- **Acuty LLC** | *软件工程师（实习）* | 2017年10月 - 至今 
-- **天加能源数据管理有限公司** | *软件工程师* | 2013年7月 – 2014年4月
-- **中软国际资源服务有限公司南京分公司** | *测试工程师* | 2012年3月 - 2013年5月
+##### Experience
+- **Acuty LLC** | *Software Engineer (internship)* | 2017/10 - Now 
+- **Tica Energy Data management Ltd** | *Software Engineer* | 2013/0 – 2014/04
+- **Chinasoft International Ltd** | *Test Engineer* | 2012/03 - 2013/05
 
 ------
 
@@ -99,5 +99,5 @@
 - **语言**：Python 3, C/C++, HTML5, CSS, JavaScript, PHP,  Shell
 - **框架**：Django, Flask, WordPress
 - **系统**：Windows, Linux, Amazon Web Service/EC2
-- **数据库**：MySQL, MySQL Cluster, Oracle, sqlite3, redis
+- **数据库**：MySQL, MySQL Cluster, Oracle, SQLite, Redis
 
