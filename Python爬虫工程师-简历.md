@@ -99,5 +99,5 @@
 - **语言**：Python 3, C/C++, HTML5, CSS, JavaScript, PHP,  Shell
 - **框架**：Django, Flask, WordPress
 - **系统**：Windows, Linux, Amazon Web Service/EC2
-- **数据库**：MySQL, MySQL Cluster, Oracle, sqlite3, redis
+- **数据库**：MySQL, MySQL Cluster, Oracle, SQLite, Redis
 
